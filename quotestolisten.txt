@@ -1,1 +1,2 @@
 rule no 1:- have burning desire!
+rule no 2:- no more excuses!
